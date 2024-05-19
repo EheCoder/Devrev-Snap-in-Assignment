@@ -7,3 +7,6 @@ The current folder contains the code for the creation of a work item using Pytho
 1. Create a `secrets.txt` file and add the following content:
    ```plaintext
    PAT="<Personal access token>"
+
+# Result
+![Result Image](result.png)
